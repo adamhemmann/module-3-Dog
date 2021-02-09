@@ -1,0 +1,16 @@
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.csprojAssemblyReference.cache
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.AssemblyInfoInputs.cache
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.AssemblyInfo.cs
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.csproj.CoreCompileInputs.cache
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.exe
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.deps.json
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.runtimeconfig.json
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.runtimeconfig.dev.json
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.dll
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\ref\Mod3Dog.dll
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\bin\Debug\net5.0\Mod3Dog.pdb
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.dll
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\ref\Mod3Dog.dll
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.pdb
+D:\Documents\School\SP2021\INFOTC 2040\Mod3\Mod3Dog\obj\Debug\net5.0\Mod3Dog.genruntimeconfig.cache
