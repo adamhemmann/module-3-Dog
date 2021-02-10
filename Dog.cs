@@ -2,22 +2,22 @@ using System;
 
 namespace Mod3Dog
 {
+    public enum Gender
+    {
+        Male,
+        His,
+        he, 
+        Female,
+        Her,
+        she
+    }
     public class Dog
     {
         public string name;
         public string owner;
         public int age;
         public Gender gender;
-        public enum Gender 
-        {
-            Male,
-            His,
-            he, 
-            Female,
-            Her,
-            she
-
-        }
+        
         public Dog(string name, string owner, int age, Gender gender)
         {
             this.name = name;
@@ -29,25 +29,20 @@ namespace Mod3Dog
         {
             for (int i = 0; i < barks; i++)
             {
-                Console.Write("Woof!");
+                Console.Write("Woof! ");
             }
         }
         public string GetTag()
         {
             if (age > 1)
             {
-                return $"If lost, call {owner}. {gender + 1} name is {name} and {gender + 2} is {age} years old.";
+                return $"\nIf lost, call {owner}. {gender + 1} name is {name} and {gender + 2} is {age} years old.";
             }
             else
             {
-                return $"If lost, call {owner}. {gender + 1} name is {name} and {gender + 2} is {age} year old.";
+                return $"\nIf lost, call {owner}. {gender + 1} name is {name} and {gender + 2} is {age} year old.";
             }
             
         }
-        public void GenderTest()
-        {
-            Console.WriteLine(gender);
-        }
-
     }
 }
